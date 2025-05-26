@@ -1,4 +1,4 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio!!
+# Olá, Bem vindo ao meu projeto de portfólio!!
 
 ## Ferramentas utilizadas:
 
@@ -12,4 +12,4 @@
 
 ### Karollyne Santos Barbosa
 
-##Linkedin : www.linkedin.com/in/karollyne-santos-barbosa-452739252
+Linkedin : www.linkedin.com/in/karollyne-santos-barbosa-452739252
